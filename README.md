@@ -6,4 +6,4 @@ Website:
 https://ivan-projects-dev.github.io/
 
 Main optimized page:
-https://ivan-projects-dev.github.io/target.html
+https://ivan-projects-dev.github.io/healthy-study-habits-for-students.html
